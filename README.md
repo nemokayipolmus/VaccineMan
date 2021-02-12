@@ -4,6 +4,6 @@ Group Members:
 
 Ahmet Alper Dönmez
 
-Aysu Sözen
+Aysu Sözen @aysussozenn
 
-Ceyda Alpay
+Ceyda Alpay @ceydalpay
